@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLFLOW/mlruns/0/afd23062fb084d8189079625e55dab8f/artifacts
+end_time: 1696863060814
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: afd23062fb084d8189079625e55dab8f
+run_name: monumental-swan-34
+run_uuid: afd23062fb084d8189079625e55dab8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696863056895
+status: 3
+tags: []
+user_id: jrspa

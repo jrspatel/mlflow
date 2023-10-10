@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLFLOW/mlruns/0/52c5f974375d4fcca84f5fe27f84ddaa/artifacts
+end_time: 1696860753083
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 52c5f974375d4fcca84f5fe27f84ddaa
+run_name: stately-squid-33
+run_uuid: 52c5f974375d4fcca84f5fe27f84ddaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696860748440
+status: 3
+tags: []
+user_id: jrspa

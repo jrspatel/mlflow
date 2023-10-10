@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLFLOW/mlruns/0/f075c8c6edbb42069f30ed7402616871/artifacts
+end_time: 1696863629289
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f075c8c6edbb42069f30ed7402616871
+run_name: gaudy-stag-383
+run_uuid: f075c8c6edbb42069f30ed7402616871
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696863622679
+status: 3
+tags: []
+user_id: jrspa

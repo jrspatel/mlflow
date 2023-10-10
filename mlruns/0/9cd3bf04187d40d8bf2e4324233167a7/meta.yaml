@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLFLOW/mlruns/0/9cd3bf04187d40d8bf2e4324233167a7/artifacts
+end_time: 1696861525570
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9cd3bf04187d40d8bf2e4324233167a7
+run_name: bright-wolf-21
+run_uuid: 9cd3bf04187d40d8bf2e4324233167a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696861521302
+status: 3
+tags: []
+user_id: jrspa

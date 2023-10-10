@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLFLOW/mlruns/0/5ba679e4cd2945759b75869c2b6efe99/artifacts
+end_time: 1696863052554
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ba679e4cd2945759b75869c2b6efe99
+run_name: amusing-gnu-51
+run_uuid: 5ba679e4cd2945759b75869c2b6efe99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696861530059
+status: 3
+tags: []
+user_id: jrspa
